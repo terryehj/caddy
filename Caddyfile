@@ -1,0 +1,6 @@
+example.com {
+	root /var/www/html
+	gzip
+	log access.log
+	errors error.log
+}
